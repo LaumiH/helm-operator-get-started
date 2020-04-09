@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: laumih/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-mhzzee9e
     replicaCount: 1
     hpa:
       enabled: false
