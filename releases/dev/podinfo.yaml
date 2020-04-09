@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: laumih/podinfo
-      tag: dev-7xizlfd4
+      tag: dev-cfviktwi
     replicaCount: 1
     hpa:
       enabled: false
